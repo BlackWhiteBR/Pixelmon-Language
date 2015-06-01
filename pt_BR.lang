@@ -347,20 +347,20 @@ item.TM10: Dive.name=HM10: Dive
 
 
 
-attack.tail whip.name=Tail Whip
-attack.tail whip.description=A move that lowers the target's Defence. Useful against tough, armored Pokemon.
-attack.tackle.name=Tackle
-attack.tackle.description=Charges the foe with a full-body tackle.
-attack.growl.name=Growl
-attack.growl.description=The user growls in an endearing way, making the foe less wary. The target’s Attack stat is lowered.
-attack.leech seed.name=Leech Seed
-attack.leech seed.description=A seed is planted on the foe. It steals some HP from the foe to heal the user on every turn.
-attack.vine whip.name=Vine Whip
-attack.vine whip.description=The foe is struck with slender, whiplike vines.
-attack.poison powder.name=Poison Powder
-attack.poison powder.description=A cloud of poisonous dust is scattered on the foe. It may poison the target.
-attack.sleep powder.name=Sleep Powder
-attack.sleep powder.description=The user scatters a big cloud of sleep-inducing dust around the foe.
+attack.tail whip.name=Caudada
+attack.tail whip.description=Um movimento que reduz a Defesa do alvo. Útil contra o duro Pokemon blindado.
+attack.tackle.name=Investida
+attack.tackle.description=Carrega o inimigo com uma de corpo inteiro.
+attack.growl.name=Grunhido
+attack.growl.description=O usuário rosna de uma forma arrebatedor, tornando o inimigo menos cauteloso. Status de Ataque do alvo é reduzido.
+attack.leech seed.name=Semente Sanguessuga
+attack.leech seed.description=A semente é plantada no inimigo. Ele rouba um pouco de HP do inimigo para curar o usuário em cada turno.
+attack.vine whip.name=Chicote de Cipó
+attack.vine whip.description=O inimigo é atingido com esguio, chicote como vinha.
+attack.poison powder.name=Pó Venenoso
+attack.poison powder.description=Uma nuvem de poeira venenosa está espalhado sobre o inimigo. Ele pode envenenar o alvo.
+attack.sleep powder.name=Pó Sonífero
+attack.sleep powder.description=O usuário espalha uma grande nuvem de poeira soporífera em torno do inimigo.
 attack.take down.name=Take Down
 attack.take down.description=A reckless, full-body charge attack for slamming into the target. It also damages the user a little.
 attack.razor leaf.name=Razor Leaf
